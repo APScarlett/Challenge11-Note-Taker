@@ -36,7 +36,7 @@ https://notetaker-as-c32191d1ef17.herokuapp.com/
   
   ## Tests
   To test this program please do the following:
-node index.js
+Head to this page: https://notetaker-as-c32191d1ef17.herokuapp.com/
   
 ## Questions
     If you have any additional questions feel free to contact me!
